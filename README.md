@@ -19,6 +19,7 @@ Exploring ideas around wardrobe digitization, outfit planning, and user-centered
 Interested in how AI and intelligent systems can support personal style discovery and clothing management.
 
  What You'll Find Here
+ 
 This GitHub serves as a public learning and building space where I document:
 Academic projects and experiments.
 Security and AI learning notes.
@@ -27,6 +28,7 @@ Reflections on technology, digital systems, and product development.
 Ongoing experiments related to fashion-tech and intelligent applications.
 
  Current Growth Areas
+ 
 I am actively improving my:
 Software engineering workflows and Git/GitHub usage.
 Backend and systems development skills.

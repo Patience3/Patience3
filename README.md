@@ -40,4 +40,4 @@ Technical documentation and project architecture.
  
 💼 LinkedIn: [linkedin.com/in/patience-nyonglema-sombang-9247b3220]
 
-📧 Email: [patience.sombang@ashesi.edu.gh]
+📧 Email: [nyonglema.sombang@gmail.com]
